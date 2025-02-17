@@ -1,8 +1,8 @@
-# Portfolio Personnel - Développeur Web Node.Js && Print Boot && Symfony && Angular
+# Développeur Web et mobile | Node.Js && Print Boot && Symfony && Angular && Kotlin
 
 ## 📝 Description
 
-Je suis Ousmane N'Faly CISSÉ, étudiant inscrit en Master 1 génie logiciel de l'université Franche-comte
+Je suis Ousmane N'Faly CISSÉ, étudiant inscrit en Master 1 génie logiciel de l'université Franche-comté
 
 ## 🚀 Fonctionnalités
 - Design moderne et épuré
@@ -13,9 +13,9 @@ Je suis Ousmane N'Faly CISSÉ, étudiant inscrit en Master 1 génie logiciel de 
 
 ## 🛠 Stack Technique
 ### Backend
-- Node.Js
-- Sprint Boot
-- Symfony
+- [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+- [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+- [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
 - PHP
 - MySQL
 
@@ -41,12 +41,18 @@ Le portfolio est optimisé pour :
 - Tablet (≥768px)
 - Mobile (≥320px)
 
-
 ## 📄 Licence
 MIT
 
 ## 📧 Contact
 Pour toute question ou collaboration :
 - Email : cisseousmane3208@gmail.com
-- LinkedIn : 
-- Portfolio : 
+- LinkedIn :
+- Portfolio :
+
+## Technologies Maîtrisées
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)

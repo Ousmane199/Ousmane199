@@ -4,13 +4,6 @@
 
 Je suis Ousmane N'Faly CISSÉ, étudiant inscrit en Master 1 génie logiciel de l'université Franche-comté
 
-## 🚀 Fonctionnalités
-- Design moderne et épuré
-- Interface responsive
-- Sections détaillées (À propos, Stack technique, Projets)
-- Liens de contact et réseaux sociaux
-- Affichage des technologies maîtrisées
-
 ## 🛠 Stack Technique
 
 ### Backend

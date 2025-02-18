@@ -19,29 +19,25 @@ Je suis Ousmane N'Faly CISSÉ, étudiant inscrit en Master 1 génie logiciel de 
 
 ### Mobile
 - [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-- [![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
-- [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+- [![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/) (Débutant)
+- [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) (Débutant)
 
 ### Outils & DevOps
 - [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 - [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 - [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-## 💻 Installation
 
 ### Contact
 - LinkedIn
 - Portfolio
 - Email
-
-## 📱 Responsive Design
-Le portfolio est optimisé pour :
-- Desktop (≥1024px)
-- Tablet (≥768px)
-- Mobile (≥320px)
+  
+## 📄 Master
+Génie logiciel
 
 ## 📄 Licence
-MIT
+Maths et informtique
 
 ## 📧 Contact
 Pour toute question ou collaboration :

@@ -1,7 +1,6 @@
-# Développeur Web et mobile | Node.Js && Print Boot && Symfony && Angular && Kotlin
+# Développeur Web et Mobile | Node.Js && Spring Boot && Symfony && Angular && Kotlin && C# && Go
 
 ## 📝 Description
-
 Je suis Ousmane N'Faly CISSÉ, étudiant inscrit en Master 1 génie logiciel de l'université Franche-comté
 
 ## 🛠 Stack Technique
@@ -12,6 +11,8 @@ Je suis Ousmane N'Faly CISSÉ, étudiant inscrit en Master 1 génie logiciel de 
 [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 
 ### Frontend
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
@@ -27,17 +28,9 @@ Je suis Ousmane N'Faly CISSÉ, étudiant inscrit en Master 1 génie logiciel de 
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-
-### Contact
-- LinkedIn
-- Portfolio
-- Email
-  
-## 📄 Master
-Génie logiciel
-
-## 📄 Licence
-Maths et informtique
+## 📄 Formation
+- **Master**: Génie logiciel
+- **Licence**: Maths et informatique
 
 ## 📧 Contact
 Pour toute question ou collaboration :
@@ -46,8 +39,9 @@ Pour toute question ou collaboration :
 - Portfolio : [ousmane199.github.io/portefolio/](https://ousmane199.github.io/portefolio/)
 
 ## Technologies Maîtrisées
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
